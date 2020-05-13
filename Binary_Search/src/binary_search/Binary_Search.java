@@ -9,7 +9,7 @@ import java.util.Random;
 
 /**
  *
- * @author DAVID
+ * @author drmorales4
  */
 public class Binary_Search {
 
